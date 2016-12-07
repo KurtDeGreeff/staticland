@@ -125,6 +125,7 @@ Read about the changes to this project in [CHANGELOG.md](CHANGELOG.md). The form
 
 ## Contact
 
+- **chat** – You can chat about this project at [gitter.im/staticland/staticland](http://gitter.im/staticland/staticland)
 - **issues** – Please open issues in the [issues queue](https://github.com/staticland/staticland/issues)
 - **twitter** – [@sethdvincent](https://twitter.com/sethdvincent)
 - **email** – Need in-depth support via paid contract? Send an email to sethvincent@gmail.com
