@@ -58,6 +58,12 @@ Deploy a site with auto-SSL:
 staticland path/to/site/ example.com
 ```
 
+The above command is a shorthand version of the `deploy` command, and works the same as this example:
+
+```sh
+staticland deploy path/to/site/ example.com
+```
+
 ## Install
 
 ```
